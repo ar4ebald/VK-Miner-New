@@ -207,6 +207,9 @@
     <Content Include="Assets\camera_a.gif">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="Assets\Shader.tkb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <None Include="ClassDiagram1.cd" />
     <None Include="Properties\app.manifest" />
     <None Include="VK MIner key.pfx" />
@@ -217,10 +220,6 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <Content Include="..\..\SharpDX Test\SharpDX Test\bin\Debug\Shader.tkb">
-      <Link>Assets\Shader.tkb</Link>
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

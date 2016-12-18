@@ -1,14 +1,14 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.26014.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VK Miner", "VK Miner\VK Miner.csproj", "{5D268A73-03D5-4785-A576-5CF54AC4C87C}"
 	ProjectSection(ProjectDependencies) = postProject
 		{7CFAA0CC-CAB8-4E90-9D43-4EFE40DD62CE} = {7CFAA0CC-CAB8-4E90-9D43-4EFE40DD62CE}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpDX Test", "..\SharpDX Test\SharpDX Test\SharpDX Test.csproj", "{7CFAA0CC-CAB8-4E90-9D43-4EFE40DD62CE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpDX Test", "SharpDX Test\SharpDX Test.csproj", "{7CFAA0CC-CAB8-4E90-9D43-4EFE40DD62CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
